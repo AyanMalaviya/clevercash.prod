@@ -27,7 +27,7 @@ You can install CleverCash directly on your Android device:
 2. Download the latest `CleverCash.apk` file.
 3. Open the file on your Android phone and click **Install**. *(You may need to allow installation from unknown sources in your settings).*
 
-## 📸 Screenshots
+## 📸 Screenshots (Adding soon)
 
 | Dashboard Overview | Adding an Expense | Spending Analytics |
 | :---: | :---: | :---: |
@@ -42,19 +42,6 @@ This project is an excellent example of modern mobile app development using:
 *   **Data Visualization:** React Native Gifted Charts
 *   **Analytics:** PostHog
 
-## 💻 Running Locally (For Developers)
+Want to contribute?
 
-Want to contribute or run the app from source? 
-
-```bash
-# Clone the repository
-git clone [https://github.com/AyanMalaviya/CleverCash.prod.git](https://github.com/AyanMalaviya/CleverCash.prod.git)
-
-# Navigate into the directory
-cd CleverCash.prod
-
-# Install dependencies
-npm install
-
-# Start the Expo server
-npx expo start
+Connect with me on instagram @ayanmalaviya or email @ ayanmalaviya111@gmail.com
