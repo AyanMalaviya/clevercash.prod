@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.6",
   "downloadUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/Version1.0.4/CleverCash.apk",
-  "releaseNotes": "Added Analysis Features and Help section and bug fixes"
+  "releaseNotes": "UI/UX updates, bug fixes and added IOU features to keep track of money owed by you to your friend or vice versa."
 }
