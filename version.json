@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "downloadUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/Version1.1.0/application-36f01eac-7659-4b55-a6af-a4d0ba39b9ff.apk",
-  "releaseNotes": "Major update, Added more analysis features, Made navigation easy, Enhanced UI/UX and designs. Fixed bugs. V1.1.0 also has a prerelease of new split groups feature to make groups and split expenses, Coming soon."
+  "latestVersion": "1.1.1",
+  "downloadUrl": "https://clevercash.online/download",
+  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.1/application-0a84ec41-a8bf-4f80-b40d-c6f0a6630e4b.apk",
+  "releaseNotes": "• CleverSplit™ PWA for iOS & Web with 2-way handshake settlements\n• Direct UPI payment deep-linking\n• Receipt & bill screenshot attachments with image compression\n• AES-encrypted Google Drive cloud backups\n• Custom category icon support\n• Offline-first SQLite architecture\n• 15-Day group recycle bin protection"
 }
