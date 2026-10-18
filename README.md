@@ -1,47 +1,153 @@
-# CleverCash - Personal Finance & Expense Tracker App
+<div align="center">
 
-![CleverCash Header](https://via.placeholder.com/1200x400.png?text=CleverCash+-+Smart+Finance+Management)
+  <img src="./assets/logo.png" alt="CleverCash Logo" width="100" height="100" />
 
-**CleverCash** is a powerful, offline-first personal finance management application built with React Native. It helps you track expenses, manage budgets, log incomes, and monitor active IOUs—all from a beautiful, lightning-fast dashboard. 
+  # CleverCash
+  ### All-in-One Personal Finance & Offline Expense Tracker with Free Group Bill Splitting
 
-Whether you are looking to manage your monthly budget, track where your money goes with AI-assisted categorization, or settle debts with friends, CleverCash is your all-in-one financial ledger.
+  [![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue.svg?style=for-the-badge&logo=github)](https://github.com/AyanMalaviya/clevercash.prod/releases/latest)
+  [![Download APK](https://img.shields.io/badge/Download-Android_APK-success?style=for-the-badge&logo=android)](https://clevercash.online/download)
+  [![Web PWA](https://img.shields.io/badge/Web_PWA-iOS_&_Windows-indigo?style=for-the-badge&logo=pwa)](https://clevercash.online/split)
+  [![License](https://img.shields.io/badge/License-Free-emerald?style=for-the-badge)](https://clevercash.online)
+  [![Zero Ads](https://img.shields.io/badge/Ads-Zero_Ads_%26_Tracking-rose?style=for-the-badge)](https://clevercash.online/privacy)
 
-[![Download APK](https://img.shields.io/badge/Download-Android_APK-green?style=for-the-badge&logo=android)](https://github.com/AyanMalaviya/CleverCash.prod/releases/latest)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+  **100% Free Forever • Zero Ads • No Subscriptions • 100% Private Offline Storage**
 
-## 📱 Features
+  [Official Website](https://clevercash.online) • [Launch CleverSplit PWA](https://clevercash.online/split) • [Download Android APK](https://clevercash.online/download) • [GitHub Releases](https://github.com/AyanMalaviya/clevercash.prod/releases)
 
-*   **📊 Deep Analytics:** Visualize your spending trends over 7, 30, or 365 days with interactive Pie and Line charts.
-*   **🤖 AI Categorization:** Auto-guess transaction categories based on titles to save you time.
-*   **🤝 IOU Tracker:** Never forget who owes you money. Track debts and split bills effortlessly.
-*   **🏦 Multi-Account Management:** Keep separate ledgers for your Bank, Cash, and Credit accounts.
-*   **📸 Receipt Scanner:** Attach physical receipt photos directly to your digital transactions.
-*   **🔒 Offline-First & Private:** Your financial data is securely stored locally using SQLite. No cloud syncing required.
+</div>
 
-## 🚀 Download & Install
+---
 
-You can install CleverCash directly on your Android device:
+## 💡 Why CleverCash?
 
-1. Go to the [Releases Page](https://github.com/AyanMalaviya/CleverCash.prod/releases).
-2. Download the latest `CleverCash.apk` file.
-3. Open the file on your Android phone and click **Install**. *(You may need to allow installation from unknown sources in your settings).*
+Most people are forced to use **two separate apps**:
+1. A **personal expense tracker** (like Money Manager or Cashew) for daily chai, groceries, rent, and monthly category budgets.
+2. A **group bill splitter** (like Splitwise or Tricount) to split apartment expenses, trip bills, and dinners with friends or roommates.
 
-## 📸 Screenshots (Adding soon)
+**CleverCash unifies both into a single, private, ad-free experience:**
 
-| Dashboard Overview | Adding an Expense | Spending Analytics |
+* **Personal Finance Manager:** Track multiple bank accounts, cash wallets, credit cards, monthly category budgets, and visual spending trends **100% offline** on your device.
+* **CleverSplit™ (Free Splitwise Alternative):** Split shared bills with friends, roommates, and travel groups with **unlimited expenses**, **smart debt simplification**, and **mutual 2-way handshake settlement confirmation** — completely free forever with zero daily caps or paywalls.
+
+---
+
+## 📱 Real App Screenshots
+
+| 1. Dashboard Overview | 2. Visual Analytics & Trends | 3. CleverSplit "Who Owes Whom" |
 | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500.png?text=Dashboard" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Add+Expense" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Analytics" width="200"/> |
+| <img src="./assets/screenshots/screenshot-dashboard.png" width="220" alt="CleverCash Dashboard" /> | <img src="./assets/screenshots/screenshot-analytics.png" width="220" alt="Spending Analytics" /> | <img src="./assets/screenshots/screenshot-whooweswhom.png" width="220" alt="CleverSplit Debts" /> |
 
-## 🛠️ Tech Stack
+| 4. 2-Way Settlement & UPI | 5. OLED & 5 3D Icon Themes | 6. Smart Monthly Budgets |
+| :---: | :---: | :---: |
+| <img src="./assets/screenshots/screenshot-settlement.png" width="220" alt="2-Way UPI Settlement" /> | <img src="./assets/screenshots/screenshot-themes.png" width="220" alt="Themes and 3D Icons" /> | <img src="./assets/screenshots/screenshot-budgets.png" width="220" alt="Category Budgets" /> |
 
-This project is an excellent example of modern mobile app development using:
-*   **Framework:** React Native / Expo
-*   **UI Library:** React Native Paper
-*   **Database:** SQLite (Offline Storage)
-*   **Data Visualization:** React Native Gifted Charts
-*   **Analytics:** PostHog
+---
 
-Want to contribute?
+## ✨ Core Features & Highlights
 
-Connect with me on instagram @ayanmalaviya or email @ ayanmalaviya111@gmail.com
+### 🔒 100% Private & Offline-First
+* **No Bank Account Linking:** Never asks for net banking logins, SMS OTP read permissions, or cloud telemetry.
+* **Local SQLite Storage:** All personal transactions, wallets, and budgets stay strictly on your physical device.
+* **Encrypted Google Drive Backups:** Backup and restore your records privately to your personal Google Drive with version selection.
+
+### 👥 CleverSplit™ — The Truly Free Splitwise Alternative
+* **Zero Daily Limits:** Add unlimited expenses every single day with no paywalls or countdown wait timers.
+* **Smart Debt Simplification:** Automatically minimizes complex group IOUs into the fewest possible payments.
+* **Two-Way Verified Handshake:** When someone records a settlement, the recipient must confirm receipt with 1 tap. Debts clear only upon mutual agreement.
+* **1-Tap Direct UPI Integration:** Opens Google Pay, PhonePe, Paytm, or BHIM with exact prefilled amount and payee UPI ID.
+* **Cross-Platform PWA:** Friends on iPhone (Safari) and Windows can join groups, split bills, and settle debts via [clevercash.online/split](https://clevercash.online/split) with zero installation required.
+* **Admin Group Controls:** Group creators can toggle permissions, manage participants, or ban disruptive members with 1-tap unban.
+* **Bill Receipt Attachments:** Attach physical receipts and invoices directly to group expenses.
+
+### 🎯 Smart Monthly Budgets & Spending Limits
+* **Category Spending Caps:** Set individual limits for Dining, Groceries, Rent, Shopping, and Entertainment.
+* **Proactive Alerts:** Visual progress bars warn you when crossing 80% and 100% of your allowance.
+* **Days Remaining Forecast:** Calculates your safe daily spending allowance until month-end.
+
+### 📊 Deep Visual Analytics
+* **Category Donut Breakdowns:** Touch any slice to inspect exact expenditure percentages.
+* **Monthly Spending Curves:** Compare month-over-month expenditure patterns effortlessly.
+* **Peak Spend Day Tracker:** Pinpoints your highest spending days.
+
+### 🎨 OLED Midnight Black & 5 3D Icon Themes
+* **True OLED Pitch Black (#000000):** Conserves battery life on AMOLED displays.
+* **5 App Icon Themes:** Choose between Modern Clean, Vibrant 3D, Claymorphism, Frosted Glass, and Obsidian Gold.
+* **Custom Category Emojis & Images:** Assign custom accent colors and 1:1 image icons.
+* **Indian Lakhs/Crores vs Western Formats:** Switch between Lakhs/Crores and Millions/Billions.
+
+### 🛡️ Security & Convenience
+* **Biometric Lock:** Secure your ledger with Fingerprint, Face ID, or PIN unlock.
+* **Privacy Balance Shield:** 1-tap blur on home screen to hide net worth in public places.
+* **15-Day Recycle Bin:** Safely restore accidentally deleted transactions, accounts, or groups.
+* **Tax-Ready CSV & PDF Export:** Export clean spreadsheets and formatted statements anytime.
+
+---
+
+## 🥊 Comparison: CleverCash vs Competing Apps
+
+| Feature | Splitwise | Money Manager / Cashew | CleverCash + CleverSplit |
+| :--- | :---: | :---: | :---: |
+| **Personal Expense Tracking** | ❌ None | ✅ Yes | **✅ Full Multi-Account Ledger** |
+| **Category Monthly Budgets** | ❌ None | ✅ Yes | **✅ With 80% & 100% Alerts** |
+| **Group Bill Splitting** | ⚠️ 3-4 exp/day limit | ❌ None | **✅ Unlimited Expenses Forever** |
+| **Smart Debt Simplification** | 🔒 Paid Pro Only | ❌ None | **✅ 100% Free Included** |
+| **Mutual Settlement Handshake** | ❌ One-sided | ❌ None | **✅ Verified 2-Way Confirmation** |
+| **Direct UPI Payments (India)** | ❌ Manual | ❌ None | **✅ 1-Tap Launch (GPay, PhonePe)** |
+| **Offline Privacy** | ❌ Cloud Required | ⚠️ Varies | **✅ 100% Offline SQLite** |
+| **No Ads / Zero Paywalls** | ❌ Heavy Ads & Timers | ⚠️ In-App Purchases | **✅ Zero Ads, Zero Subscriptions** |
+| **Web & iOS PWA Access** | ✅ Web App | ❌ Mobile Only | **✅ Instant PWA (No Install Needed)** |
+
+---
+
+## 📥 How to Install
+
+### Android (APK)
+1. Download the latest `CleverCash.v1.0.2.apk` from the [Releases Page](https://github.com/AyanMalaviya/clevercash.prod/releases/latest) or [clevercash.online/download](https://clevercash.online/download).
+2. Open the file on your device and tap **Install** *(Enable "Install unknown apps" if prompted)*.
+3. Future updates can be checked and installed directly from within the app Settings!
+
+### iPhone & iPad (Safari PWA)
+1. Open [clevercash.online/split](https://clevercash.online/split) in Safari.
+2. Tap the **Share** button (`⎙`).
+3. Select **Add to Home Screen**. CleverSplit runs with standalone app speed and offline caching.
+
+### Windows, Mac & Linux (Desktop)
+1. Open [clevercash.online/split](https://clevercash.online/split) in Google Chrome or Microsoft Edge.
+2. Click the **Install** icon in the address bar to run CleverSplit as a desktop app.
+
+---
+
+## 🏷️ AlternativeTo Submission Metadata
+
+Use the following verified metadata to submit or update CleverCash on [AlternativeTo.net](https://alternativeto.net):
+
+* **App Name:** CleverCash
+* **Short Description:** All-in-one private personal finance manager, offline expense tracker, and free group bill splitter.
+* **Tagline:** 100% Free Offline Expense Tracker & Splitwise Alternative
+* **Website:** https://clevercash.online
+* **Web App / PWA:** https://clevercash.online/split
+* **GitHub Repository:** https://github.com/AyanMalaviya/clevercash.prod
+* **Download URL:** https://clevercash.online/download
+* **Platforms:** Android, Web, Progressive Web App (PWA), iOS (Web), Windows, macOS
+* **License:** Free / Ad-Free / Non-Commercial
+* **Key Categories / Tags:**
+  * Splitwise Alternative
+  * Money Manager Alternative
+  * Personal Finance Software
+  * Expense Tracker
+  * Budget Planner
+  * Bill Splitting App
+  * Offline-First App
+  * UPI Payment Split
+
+---
+
+## 📬 Contact & Support
+
+CleverCash is designed and actively maintained with care by **Ayan Malaviya**.
+
+* **Website:** [clevercash.online](https://clevercash.online)
+* **Email:** [ayanmalaviya111@gmail.com](mailto:ayanmalaviya111@gmail.com)
+* **Instagram:** [@ayanmalaviya](https://instagram.com/ayanmalaviya)
+* **Bug Reports & Feedback:** [Submit an Issue](https://github.com/AyanMalaviya/clevercash.prod/issues)

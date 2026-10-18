@@ -1,6 +1,8 @@
 {
-  "latestVersion": "1.1.2",
+  "latestVersion": "1.0.2",
   "downloadUrl": "https://clevercash.online/download",
-  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.2/CleverCash.v1.1.2.apk",
-  "releaseNotes": "• UI/UX Updates\n•  Added multiple themes\n• More customizability\n• Settings overhaul\n• Bug fixes and performance improvements",
+  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.0.2/CleverCash.v1.0.2.apk",
+  "releaseNotes": "• UI/UX Updates\n• Added multiple themes\n• More customizability\n• Settings overhaul\n• Bug fixes and performance improvements",
+  "publishedAt": "2026-10-18",
+  "minAppVersion": "1.0.0"
 }
