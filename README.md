@@ -118,28 +118,70 @@ Most people are forced to use **two separate apps**:
 
 ---
 
-## 🏷️ AlternativeTo Submission Metadata
+## 🏷️ AlternativeTo Submission Details
 
-Use the following verified metadata to submit or update CleverCash on [AlternativeTo.net](https://alternativeto.net):
+Use these exact values when submitting or updating CleverCash on [AlternativeTo.net/software/submit/](https://alternativeto.net/software/submit/):
 
-* **App Name:** CleverCash
-* **Short Description:** All-in-one private personal finance manager, offline expense tracker, and free group bill splitter.
-* **Tagline:** 100% Free Offline Expense Tracker & Splitwise Alternative
-* **Website:** https://clevercash.online
-* **Web App / PWA:** https://clevercash.online/split
-* **GitHub Repository:** https://github.com/AyanMalaviya/clevercash.prod
-* **Download URL:** https://clevercash.online/download
-* **Platforms:** Android, Web, Progressive Web App (PWA), iOS (Web), Windows, macOS
-* **License:** Free / Ad-Free / Non-Commercial
-* **Key Categories / Tags:**
-  * Splitwise Alternative
-  * Money Manager Alternative
-  * Personal Finance Software
-  * Expense Tracker
-  * Budget Planner
-  * Bill Splitting App
-  * Offline-First App
-  * UPI Payment Split
+* **App Name:** `CleverCash`
+* **Short Description (under 200 chars):** `All-in-one private personal finance manager, offline expense tracker, and free group bill splitter with zero ads.`
+* **License:** **`Free`** *(Freeware / Closed Source — 100% free with no in-app purchases and no paywalls)*
+* **Pricing:** `$0 / 100% Free Forever`
+* **Website:** `https://clevercash.online`
+* **Download URL (Android):** `https://clevercash.online/download`
+* **Web App (PWA):** `https://clevercash.online/split`
+* **Release / Distribution Repo:** `https://github.com/AyanMalaviya/clevercash.prod`
+* **Platforms:**
+  * `Android`
+  * `Web / Web App (PWA)`
+  * `iPhone / iPad` *(via Safari PWA)*
+  * `Windows` *(via Desktop PWA)*
+  * `Mac` *(via Desktop PWA)*
+
+### 🥊 Apps to Add as Alternatives (Highest Search Traffic)
+1. **Splitwise** *(Primary alternative — zero daily limits vs Splitwise's 3/day)*
+2. **Money Manager Expense & Budget** *(Offline personal ledger & multi-wallet alternative)*
+3. **Tricount**
+4. **Splid**
+5. **Cashew: Expense Manager**
+6. **Settle Up**
+7. **Bluecoins**
+
+### 🏷️ Curated Tags & Feature Keywords for AlternativeTo
+*(Type these directly into the AlternativeTo tag selector — these match existing popular tags on the site)*
+
+**Core Categories:**
+* `Expense Tracker`
+* `Personal Finance`
+* `Bill Splitting`
+* `Budget Manager`
+* `Money Management`
+* `Debt Tracker`
+* `IOU Tracker`
+
+**Privacy & Data Ownership:**
+* `Offline`
+* `Works Offline`
+* `No Ads`
+* `No Tracking`
+* `No Bank Account Required`
+* `Encrypted Cloud Backup`
+* `Google Drive Sync`
+* `Local Storage (SQLite)`
+
+**Features & Capabilities:**
+* `Progressive Web App (PWA)`
+* `UPI Payment`
+* `Debt Simplification`
+* `Shared Expenses`
+* `Group Expenses`
+* `Receipt Attachment`
+* `Dark Theme`
+* `OLED Dark Mode`
+* `Biometric Authentication`
+* `Fingerprint App Lock`
+* `CSV Export`
+* `PDF Export`
+* `Multi-Currency`
 
 ---
 
