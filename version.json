@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.5",
+  "latestVersion": "1.1.6",
   "downloadUrl": "https://clevercash.online/download",
-  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.5/CleverCash.v1.1.5.apk",
-  "releaseNotes": "• Multi-select delete & restore for transactions, recycle bin, and cloud backups\n• Category expense analytics redesign & enhanced sorting\n• Intelligent AI conversational query engine\n• Performance improvements and bug fixes",
-  "publishedAt": "2026-10-30",
+  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.6/CleverCash.v1.1.6.apk",
+  "releaseNotes": "• Resolved Android input caret reset on fast typing & double backspacing across all forms\n• Enhanced EAS Over-The-Air and GitHub release dual update check\n• Performance optimizations and stability improvements",
+  "publishedAt": "2026-11-05",
   "minAppVersion": "1.0.0"
 }

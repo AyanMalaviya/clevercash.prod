@@ -5,7 +5,7 @@
   # CleverCash
   ### All-in-One Personal Finance & Offline Expense Tracker with Free Group Bill Splitting
 
-  [![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue.svg?style=for-the-badge&logo=github)](https://github.com/AyanMalaviya/clevercash.prod/releases/latest)
+  [![Latest Release](https://img.shields.io/badge/Release-v1.1.6-blue.svg?style=for-the-badge&logo=github)](https://github.com/AyanMalaviya/clevercash.prod/releases/latest)
   [![Download APK](https://img.shields.io/badge/Download-Android_APK-success?style=for-the-badge&logo=android)](https://clevercash.online/download)
   [![Web PWA](https://img.shields.io/badge/Web_PWA-iOS_&_Windows-indigo?style=for-the-badge&logo=pwa)](https://clevercash.online/split)
   [![License](https://img.shields.io/badge/License-Free-emerald?style=for-the-badge)](https://clevercash.online)
@@ -103,7 +103,7 @@ Most people are forced to use **two separate apps**:
 ## 📥 How to Install
 
 ### Android (APK)
-1. Download the latest `CleverCash.v1.0.2.apk` from the [Releases Page](https://github.com/AyanMalaviya/clevercash.prod/releases/latest) or [clevercash.online/download](https://clevercash.online/download).
+1. Download the latest `CleverCash.v1.1.6.apk` from the [Releases Page](https://github.com/AyanMalaviya/clevercash.prod/releases/latest) or [clevercash.online/download](https://clevercash.online/download).
 2. Open the file on your device and tap **Install** *(Enable "Install unknown apps" if prompted)*.
 3. Future updates can be checked and installed directly from within the app Settings!
 
