@@ -2,7 +2,7 @@
   "latestVersion": "1.1.6",
   "downloadUrl": "https://clevercash.online/download",
   "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.6/CleverCash.v1.1.6.apk",
-  "releaseNotes": "• Resolved Android input caret reset on fast typing & double backspacing across all forms\n• Enhanced EAS Over-The-Air and GitHub release dual update check\n• Performance optimizations and stability improvements",
+  "releaseNotes": "• Resolved Android input caret reset on fast typing & double backspacing across all forms\n• Added customizable monthly salary & payday reminders with quick log action\n• Added dual-track update notifications for EAS OTA and GitHub releases\n• Performance optimizations and stability improvements",
   "publishedAt": "2026-11-05",
   "minAppVersion": "1.0.0"
 }
