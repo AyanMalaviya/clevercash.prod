@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.7",
+  "latestVersion": "1.1.8",
   "downloadUrl": "https://clevercash.online/download",
-  "directApkUrl": "https://pub-72ff1b6610f24a41a71bbfd5c594f872.r2.dev/CleverCash.v1.1.7.apk",
-  "releaseNotes": "• ⚡ Instant UPI Checkout: Pay anyone straight from expenses and splits with Google Pay, PhonePe, Paytm, PayZapp, and BHIM\n• 📷 Scan & Pay Any UPI QR: Scan shop or merchant QR codes right inside CleverCash to prefill amounts and pay effortlessly\n• ⚖️ Smarter Balance Verification: Works with directly edited or pre-existing balances, adds day/month/custom filters, and lets you ignore single or all diffs\n• 📱 Smoother Responsive Layout: Improved screen, dialog, and modal scaling across phones and tablets",
+  "directApkUrl": "https://pub-72ff1b6610f24a41a71bbfd5c594f872.r2.dev/CleverCash.v1.1.8.apk",
+  "releaseNotes": "• 📋 Activity Tab & Audit Log: Track account add/edit/delete, balance adjustments, deleted transactions, and notification/schedule switches in one place\n• ⚖️ Accurate Historical Balances: Updating current balance in Manage Accounts now keeps older transaction closing balances untouched by default\n• 🔄 Complete Transfer & Timeline Accuracy: Incoming Bank/Cash transfers and mixed date formats always stay in exact chronological balance order\n• 🧹 Clear Activity Controls: Filter by category or account and clear older or filtered activity logs anytime",
   "publishedAt": "2026-11-26",
   "minAppVersion": "1.0.0"
 }
