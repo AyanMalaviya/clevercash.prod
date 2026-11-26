@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.6",
+  "latestVersion": "1.1.7",
   "downloadUrl": "https://clevercash.online/download",
-  "directApkUrl": "https://github.com/AyanMalaviya/clevercash.prod/releases/download/v1.1.6/CleverCash.v1.1.6.apk",
-  "releaseNotes": "• ✨ Smoother Typing: Fixed cursor jumps so typing amounts, accounts, and notes is smooth and effortless\n• 💰 Payday Reminders: Customize your salary date & reminder time, or turn it off anytime\n• ⚡ 1-Tap Salary Logging: Quickly record your income directly from your reminder notification\n• 🔔 Notification Controls: Easily manage your update alerts and reminder preferences\n• 🚀 Speed & Stability: Smoother animations and performance improvements throughout the app",
-  "publishedAt": "2026-11-05",
+  "directApkUrl": "https://pub-72ff1b6610f24a41a71bbfd5c594f872.r2.dev/CleverCash.v1.1.7.apk",
+  "releaseNotes": "• ⚡ Instant UPI Checkout: Pay anyone straight from expenses and splits with Google Pay, PhonePe, Paytm, PayZapp, and BHIM\n• 📷 Scan & Pay Any UPI QR: Scan shop or merchant QR codes right inside CleverCash to prefill amounts and pay effortlessly\n• ⚖️ Smarter Balance Verification: Supports directly updated or pre-existing account balances with new day, month, and custom date filters\n• 📱 Smoother Responsive Layout: Improved screen, dialog, and modal scaling across phones and tablets",
+  "publishedAt": "2026-11-26",
   "minAppVersion": "1.0.0"
 }
